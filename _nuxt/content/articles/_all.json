@@ -1,0 +1,50 @@
+[
+  {
+    "title": "What's this blog about?",
+    "abstract": "A short explanation of what it is I deem to be purposeful about this blog and a tryout of tools for writing math.",
+    "meta": {
+      "index": 0,
+      "fileName": "2017-09-15-whats-this-about.md",
+      "section": "/mathematics",
+      "dirName": "/articles",
+      "filePath": "/home/graddd/Workspace/suhogrozdje.github.io/content/articles/mathematics/2017-09-15-whats-this-about.md"
+    },
+    "date": "2017-09-15",
+    "path": "/mathematics/whats-this-about",
+    "permalink": "/mathematics/whats-this-about",
+    "anchors": [],
+    "body": "<p>Firstly, it’s worth mentioning that I am a physics graduate who is currently on his way of getting a master’s in mathematics. So this blog will hopefully be heavily permeated with topics from geometry and topology, algebra and analysis.</p>\n<p>This category will include short scribblings about my involvement in mathematics. What this mostly means is that I will be discussing mathematical concepts and their connection to physics, the synthesis of the two being called <em>mathematical physics</em>. I will sometimes get involved and talk about specific definitions, lemmas, theorems, proofs; at other times, I will be a physicist and only use mathematics to describe a phenomenon. Forgive me if I start talking about philosophy of mathematics at times though – I will strive to perform better than an average person at your local bar.</p>\n<p>Here’s a short test to see whether MathJax works correctly. An inline bra-ket: $p_e = \\Abs{\\braket{e|\\psi(t)}}^2 = \\sin^2\\Omega t$, a Dirac particle creation operator:\n\\begin{equation}\n\\bar\\psi(x) = \\int \\frac{\\mathrm{d}^3\\vec p}{(2\\pi)^3}\\frac{1}{\\sqrt{2E_{\\vec p}}}\\sum_s\\big(b_{\\vec p}^s\\ \\bar v^s(\\vec p)\\,\\eul^{-ipx} + {a_{\\vec p}^s}^\\dagger\\ u^s (\\vec p)\\,\\eul^{-ipx}\\big),\n\\end{equation}</p>\n<p>and Pauli matrices:\n\\begin{equation}\n\\begin{split}\n\\sigma_x&amp;=\\begin{pmatrix}\n0 &amp; 1 \\\\\n1 &amp; 0\n\\end{pmatrix}\\\\\n\\sigma_y&amp;=\\begin{pmatrix}\n0 &amp; -i \\\\\ni &amp; 0\n\\end{pmatrix}\\\\\n\\sigma_z&amp;=\\begin{pmatrix}\n1 &amp; 0 \\\\\n0 &amp; -1\n\\end{pmatrix}.\n\\end{split}\n\\label{pauli}\n\\end{equation}</p>\n<p>Trying out definitions, lemmas, theorems, proofs:</p>\n<div class=\"definition\" data-title=\"Convexity\">\n  A set $C$ is <i>convex</i> if for all $x,y \\in C$ and for all $\\alpha \\in [0,1]$ the point $\\alpha x + (1-\\alpha) y \\in C$.\n</div>\n<p>Note that markdown <em>doesn’t</em> work in html tags. Watch out for gt/lt signs in theorems. Also, I’m using a reference to \\ref{pauli}</p>\n<p>Now that we’ve defined convexity, let’s move to <strong>arihtmetics</strong> (markdown works here again). Let’s add a named theorem.</p>\n<div class=\"theorem\" data-title=\"Fermat's last theorem\">\n  There are no three natural numbers $x, y, z \\in \\mathbb{N}$ such that $x^n + y^n = z^n$, where $n &gt; 2$.\n</div>\n<div class=\"proof\">\n  Yeah right. Still, I make a q.e.d. sign, to see if it works.\n</div>\n<p>If I now insert a second definition, it should follow in numerical order.</p>\n<div class=\"definition\">\n  A triangle is called <i>equilateral</i> if its sides are equal.\n</div>\n"
+  },
+  {
+    "title": "Transparence",
+    "abstract": "",
+    "meta": {
+      "index": 0,
+      "fileName": "2017-09-20-transparence.md",
+      "section": "/dread",
+      "dirName": "/articles",
+      "filePath": "/home/graddd/Workspace/suhogrozdje.github.io/content/articles/dread/2017-09-20-transparence.md"
+    },
+    "date": "2017-09-20",
+    "path": "/dread/transparence",
+    "permalink": "/dread/transparence",
+    "anchors": [],
+    "body": "<p>I am readily see-through with my dread-glamourizing and self-exaltation. My established defense lest a reader would not be able to spew criticism, is of course, an act of self-preservation. Instant cynism, a form of offense in midst of defensive sorrow. I wish I was special. So fucking special. But my commas lack correct placement. I misuse words.</p>\n<p>My grammar, my choice. Language is a fluid thing; that’s how I apologise my inarticulateness. If you’re still here, you probably want it raw, want me to tell you a way to do this, to slide through it and tap it like a pro. You want it raw? Become a vegan and cry your vegetables into germination; them vegans certainly feel satisfied with themselves. But that’s not really what you want, is it – you don’t really crave to be persuaded into wellbeing, otherwise you’d be reading some spirit science cult facebook page and feeding on their motivational quotes that aggravate your condition, not my tractats. You want it real but you don’t feel genuine – well, I am not either. I’ve got numerous identities to choose from and pretend to be.</p>\n<p>I don’t deem lightly of this issue, obviously. I don’t proclaim to have it down and yes I do exalt myself for not thinking that I do. If you’ve come this far, you’re most likely looking for general nonexisting purpose and I’m not here to tell you there isn’t one. If you wish to think santa exists, that’s fine with me. Also, if you wish to think there isn’t a horse to tackle, I’m also fine with you staying ignorant.</p>\n"
+  },
+  {
+    "title": "Some jolly-n-sweet opening words",
+    "abstract": "I've finally decided that imma be writing a blog-like thing and I regret this decision instantly. What is bound to be happening on this dull page but an exaggerated portrayal of myself being projected onto the screen, fancy words thrown around?",
+    "meta": {
+      "index": 1,
+      "fileName": "2017-09-15-why-do-i-even-bother.md",
+      "section": "/dread",
+      "dirName": "/articles",
+      "filePath": "/home/graddd/Workspace/suhogrozdje.github.io/content/articles/dread/2017-09-15-why-do-i-even-bother.md"
+    },
+    "date": "2017-09-15",
+    "path": "/dread/why-do-i-even-bother",
+    "permalink": "/dread/why-do-i-even-bother",
+    "anchors": [],
+    "body": "<p>I don’t like the idea of self-promotion through writing and I don’t like people who do it, myself not being excluded from them. One of the things that can prevent you from miserably biting into the pity of conforming to the established standard of what should be projected as an <em>idea of you</em> is closing yourself off – e.g. <strong>not</strong> writing an opinionated blog, deleting your social network accounts and living your life without the burden of day-to-day garbage scrolling. It’s not a novel thing to say that what we are doing is unhealthy, mostly because we get rewarded with dopamine kicks for doing absolutely nothing but swiping your two fingers against a touchpad or the middle one against the wheel, and dopamine kicks for the successfully portrayed illusion of who you are that comes in form of a <em>like</em>.</p>\n<p>What is mostly expected from the writer (in this case, me) is to serve precisely the idea of themselves that they have been marinating in, patting their backs with offering only the misguiding image <em>under which they feel good about themselves</em>, appealing to the reader that they should think good of the writer as well. I’d say that such doing must be categorized as one of the least sincere forms of monologues, rewards being devaluated in the frenzy of awarding them constantly to yourself. So let me be insincere and take this step.</p>\n<p>I could get even more pictorial; you can compare such an act of sycophancy to a dopamine kick that is present when you eat a sugar cube, the latter – having for the consequence a risk you get diabetes when overdoing it – making you rot quite literally. It is self-evident that I draw hereby a conclusion (god that sounds pretentious) that the former means rotting in a figurative sense, placing the two on kinda the same footing.</p>\n<p>Before I get dull and bore myself with my own chanting, I will mention that I have by now successfully made a hopeless post of some length, which seemingly testifies about my competence to stay fluid in thought, which I bet in turn has made you think relatively good of me, and that is the point I’ve tried to elucidate in paragraphs above; I am prone to making you think so. For those of you who know me, I rest assured it is not so, acknowledging you know of my mistakes. These mistakes obviously never take place in a portrayal such as this one; let’s say I’ve made a large misdeed some time ago – I will be prepared to talk about it semi-openly when I will feel that enough time has passed since the wrongdoing that I can <em>claim</em> that it is not a part of me anymore, that I’ve <em>outgrown</em> my bad trait. More importantly, not only would I have a problem with talking about my mistakes, but I’d feel tiny whenever I’d get caught in the gutter of remembering <em>who I really am</em> and that a part of me stinks immensely of “non-<a href=\"http://plato.stanford.edu/entries/integrity/\">integrity</a>”, which brings up an intense feeling of shame. It’s my opinion that the endeavour of us concealing such memories from others and ourselves is an inherent part of human behaviour, keeping us satisfied with ourselves.</p>\n<p>I imagine what you’re thinking – isn’t life simpler than what this guy is preaching about? Yeah, keep chewing on that utopia, see where it gets you. Back that comfortable conceptual horse and lean onto your satisfaction with yourself and you’re ready for slaughter.</p>\n<p>Let me conclude; obviously, the point of this rambling is that most of the time, we’re self-deceptive diligent liars, gripping on our next moment to ejaculate. And for me to have a blog-like thing to do so is just ironic. My last frisky spit for the way is <strong>conform hard or go home</strong>.\n<br><br><br><br><br><br><br><br><br><br><br><br><br>\nin case you were wondering, this page is a halfheartedly honest satire, that’s probably why it will soon die</p>\n"
+  }
+]
