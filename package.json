@@ -1,0 +1,41 @@
+{
+  "name": "suhogrozdje.github.io",
+  "version": "1.0.0",
+  "description": "Personal blog with mathematical content and a pinch of dread.",
+  "author": "github.com/suhogrozdje",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxtent generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^4.3.0",
+    "@nuxtjs/router": "^1.0.1",
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
+    "mathjax": "^2.7.2",
+    "moment": "^2.18.1",
+    "node-sass": "^4.5.3",
+    "nuxt": "^1.0.0-rc11",
+    "nuxtent": "^0.2.78",
+    "sass-loader": "^6.0.6",
+    "slug": "^0.9.1",
+    "vuex-router-sync": "^4.3.1",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-html": "^3.1.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
