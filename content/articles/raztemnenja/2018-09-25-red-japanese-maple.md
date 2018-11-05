@@ -1,5 +1,6 @@
 ---
 title: 'red japanese maple'
+tags: [rakija]
 ---
 red japanese maple \
 in its short lived autumn scarlet foliage\

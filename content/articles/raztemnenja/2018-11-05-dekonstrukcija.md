@@ -1,5 +1,6 @@
 ---
 title: dekonstrukcija
+tags: [rakija]
 ---
 božanstvo najine verbalne izmenjave\
 ruvanje, potiskanje\

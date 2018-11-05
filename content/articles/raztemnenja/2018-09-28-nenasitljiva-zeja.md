@@ -1,5 +1,6 @@
 ---
 title: 'nenasitljiva žeja'
+tags: [rakija]
 ---
 kdo da bolj mislit\
 seb najbolj kar jz sam\

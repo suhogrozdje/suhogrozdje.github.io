@@ -1,5 +1,6 @@
 ---
 title: odprtomiselen
+tags: [rakija]
 ---
 s prstom si kažem lastno protislovnost\
 izrečem jo in je ne slišim\

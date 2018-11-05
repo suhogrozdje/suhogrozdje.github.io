@@ -1,5 +1,6 @@
 ---
 title: 'rumen twingo'
+tags: [rakija]
 ---
 rumen twingo\
 brez tablic\

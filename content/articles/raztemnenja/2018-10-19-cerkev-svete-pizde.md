@@ -1,5 +1,6 @@
 ---
 title: 'cerkev svete pizde'
+tags: [rakija]
 ---
 tilt, labilno stanje zadovoljstva\
 in izmuzljivost razpoloženj\

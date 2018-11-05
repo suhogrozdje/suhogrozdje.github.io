@@ -1,5 +1,6 @@
 ---
 title: kontriranje
+tags: [rakija]
 ---
 kontra, lih kontra \
 kot kar misliš, to nared\

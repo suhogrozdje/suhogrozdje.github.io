@@ -1,5 +1,6 @@
 ---
 title: 'udar vještice'
+tags: [rakija]
 ---
 spet si v zelje hodim\
 šepa mi kontra\

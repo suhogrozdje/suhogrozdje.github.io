@@ -6,7 +6,8 @@
       <ul class="nav">
         <li v-for="{tags, section} in sections">
           <nuxt-link :to="{name: 'section', params: {section: section}}" @click.native="clearActiveTags">{{ section }}</nuxt-link>
-          <ul v-show="section === activeSection">
+          <ul>
+            <!-- v-show="section === activeSection" -->
             <li v-for="tag in tags"><a href="#" @click.prevent="clickTag({tag, section, $router})" :class="{active: activeTags.includes(tag)}">{{ tag }}</a></li>
           </ul>
         </li>
