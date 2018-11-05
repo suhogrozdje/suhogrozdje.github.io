@@ -1,8 +1,8 @@
 <template>
   <div class="app">
     <div class="heading">
-      <span class="title"><nuxt-link to='/' @click.native="clearActiveTags">suhogrozdje</nuxt-link></span>
-      <span class="description">personal mathematical write-off leaflet with an occasionally dreadful narrative</span>
+      <span class="title"><nuxt-link to='/' @click.native="clearActiveTags">miloševo suho grožđe</nuxt-link></span>
+      <span class="description">kdo je dal rozine v to potico ffs</span>
       <ul class="nav">
         <li v-for="{tags, section} in sections">
           <nuxt-link :to="{name: 'section', params: {section: section}}" @click.native="clearActiveTags">{{ section }}</nuxt-link>
@@ -64,16 +64,16 @@ export default {
     ...mapActions(['clickTag']),
     ...mapMutations(['clearActiveTags'])
   },
-  updated() {
-    this.$nextTick(() => {
-      MathJax.Hub.Queue(
-        ["PreProcess", MathJax.Hub],
-        ["Typeset", MathJax.Hub],
-        ["resetEquationNumbers", MathJax.InputJax.TeX],
-        // ["Reprocess", MathJax.Hub]
-      )
-    })
-  }
+  // updated() {
+  //   this.$nextTick(() => {
+  //     MathJax.Hub.Queue(
+  //       ["PreProcess", MathJax.Hub],
+  //       ["Typeset", MathJax.Hub],
+  //       ["resetEquationNumbers", MathJax.InputJax.TeX],
+  //       // ["Reprocess", MathJax.Hub]
+  //     )
+  //   })
+  // }
 }
 </script>
 
@@ -94,8 +94,16 @@ body{
   margin: 0;
   line-height: 1.6;
   font-size: 15px;
+  background: #111;
   color: #222;
   box-sizing: border-box;
+}
+
+::selection {
+  background: #0f877f; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #0f877f; /* Gecko Browsers */
 }
 
 .mathjax-commands {
@@ -103,8 +111,7 @@ body{
 }
 
 a {
-  color: #5c0120;
-  display: inline-block;
+  color: $bordeaux;
   font-family: $mono;
   text-decoration: none;
   border-bottom: 1px dashed $bordeaux;
@@ -138,7 +145,6 @@ a:hover {
     width: 350px;
     padding: 40px;
     position: fixed;
-    background: #fff;
     z-index: 3;
     @include media-breakpoint-down(sm) {
       position: static;
@@ -154,13 +160,15 @@ a:hover {
         border-bottom: 0;
         font-family: $serif;
         font-weight: bold;
-        color: #222;
+        color: #fff;
         line-height: 1.2;
         display: block;
       }
     }
 
-    span.description {}
+    span.description {
+      color: #fff
+    }
 
     .nav {
       &>li {

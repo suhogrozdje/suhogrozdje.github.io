@@ -34,7 +34,7 @@ export default {
   margin-bottom: 20px;
 
   .date{
-    color: #999;
+    color: #ccc;
     font-family: $mono;
     font-size: 13px
   }

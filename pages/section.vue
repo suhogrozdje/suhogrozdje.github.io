@@ -2,7 +2,7 @@
   <section class="container">
     <article-listing-component v-for="article in filteredArticles" :article="article" :key="article.id"></article-listing-component>
     <div v-if="!filteredArticles.length">
-      No {{ activeSection }}-related articles yet.
+      nema ništa, no {{ activeSection }}-related stuff
     </div>
   </section>
 </template>

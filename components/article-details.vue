@@ -4,7 +4,7 @@
     <div class="article-details">
       {{ article.date }} // {{ section }}
     </div>
-    <div class="article-abstract" v-html="article.abstract"></div>
+    <div class="article-abstract" v-html="article.abstract" v-if="article.abstract"></div>
     <section class="article-body">
       <nuxtent-body :body="article.body" />
     </section>
@@ -37,28 +37,45 @@ export default {
     font-size: 22px;
     margin: 0;
     line-height: 1.2;
+    color: #fff;
   }
   .article-abstract {
     margin-top: 10px;
     font-family: $serif;
-    text-align: justify;
+    text-align: left;
+    background: #9b0f55;
+    padding-top: 7px;
   }
   .article-details {
-    color: #999;
+    color: #ccc;
     font-size: 13px;
     font-family: $mono;
   }
   .article-body {
-    text-align: justify;
+    text-align: left;
     font-family: $serif;
+    color: #fff;
+    line-height: 26px;
+    background: #9b0f55;
 
-    .theorem {
+    ul, ol {
+      margin: 10px;
+      padding: 0;
+      padding-left: 20px;
+    }
+
+    .theorem, .lemma, .example, .definition {
       display: block;
       margin: 12px 0;
       font-style: italic;
       border: 1px solid #000;
       padding: 10px;
     }
+
+    .definition, .example {
+      font-style: normal;
+    }
+
     .theorem:before {
       counter-increment: theorem;
       content: "Theorem " counter(theorem) " (" attr(data-title) "). ";
@@ -68,18 +85,19 @@ export default {
     .theorem[data-title=""]::before, .theorem:not([data-title])::before {
       content: "Theorem " counter(theorem) ". ";
     }
-    .lemma {
-      display: block;
-      margin: 12px 0;
-      font-style: italic;
-      border: 1px solid #000;
-      padding: 10px;
-    }
+
     .lemma:before {
       content: "Lemma. ";
       font-weight: bold;
       font-style: normal;
     }
+
+    .example:before {
+      content: "Example. ";
+      font-weight: bold;
+      font-style: normal;
+    }
+
     .proof {
       display: block;
       margin: 12px 0;
@@ -92,17 +110,11 @@ export default {
       content: "Proof. ";
       font-style: italic;
     }
-    .proof:after {
+    .proof span.qed:before {
       content: "\25FB";
       float:right;
     }
-    .definition {
-      display: block;
-      margin: 12px 0;
-      font-style: normal;
-      border: 1px solid #000;
-      padding: 10px;
-    }
+
     .definition:before {
       counter-increment: definition;
       content: "Definition " counter(definition) " (" attr(data-title) "). ";

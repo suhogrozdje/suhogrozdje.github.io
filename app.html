@@ -2,7 +2,7 @@
 <html {{ HTML_ATTRS }}>
   <head>
     {{ HEAD }}
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
     <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], preview: 'none'},
@@ -15,18 +15,24 @@
         extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
       }
     });
-    </script>
+    </script> -->
   </head>
   <body {{ BODY_ATTRS }}>
     <!-- Math commands here -->
-    <div class="mathjax-commands">
+    <!-- <div class="mathjax-commands">
       $$
       \newcommand{\braket}[1]{\langle #1 \rangle}
       \newcommand{\Abs}[2][]{\left\lvert#2\right\rvert_{\text{#1}}}
       \newcommand{\eul}{\mathrm{e}}
       \newcommand{\vec}[1]{\mathbf{#1}}
+      \newcommand{\set}[1]{\mathcal{#1}}
+      \newcommand{\iff}{\Leftrightarrow}
+      \newcommand{\real}{\mathbb R}
+      \newcommand{\complex}{\mathbb C}
+      \newcommand{\interior}{\mathrm{Int}\,}
+      \newcommand{\exterior}{\mathrm{Ext}\,}
       $$
-    </div>
+    </div> -->
     {{ APP }}
   </body>
 </html>
