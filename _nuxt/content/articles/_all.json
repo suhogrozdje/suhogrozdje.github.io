@@ -1,6 +1,9 @@
 [
   {
     "title": "dekonstrukcija",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 0,
       "fileName": "2018-11-05-dekonstrukcija.md",
@@ -15,6 +18,9 @@
   },
   {
     "title": "udar vještice",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 1,
       "fileName": "2018-11-02-udar-vjestice.md",
@@ -29,6 +35,9 @@
   },
   {
     "title": "emulzija",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 2,
       "fileName": "2018-10-29-emulzija.md",
@@ -43,6 +52,9 @@
   },
   {
     "title": "tinnitus",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 3,
       "fileName": "2018-10-27-tinnitus.md",
@@ -57,6 +69,9 @@
   },
   {
     "title": "cerkev svete pizde",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 4,
       "fileName": "2018-10-19-cerkev-svete-pizde.md",
@@ -72,6 +87,9 @@
   {
     "title": "tebi može malo, meni može malo više",
     "abstract": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525038631&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "tags": [
+      "rakija + vino"
+    ],
     "meta": {
       "index": 5,
       "fileName": "2018-10-02-tebi-moze-malo-meni-moze-malo-vise.md",
@@ -86,6 +104,9 @@
   },
   {
     "title": "nenasitljiva žeja",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 6,
       "fileName": "2018-09-28-nenasitljiva-zeja.md",
@@ -100,6 +121,9 @@
   },
   {
     "title": "red japanese maple",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 7,
       "fileName": "2018-09-25-red-japanese-maple.md",
@@ -115,6 +139,9 @@
   {
     "title": "the cheap cane blues",
     "abstract": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525039489&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "tags": [
+      "rakija + vino"
+    ],
     "meta": {
       "index": 8,
       "fileName": "2018-09-11-the-cheap-cane-blues.md",
@@ -129,6 +156,9 @@
   },
   {
     "title": "kontriranje",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 9,
       "fileName": "2018-08-29-kontriranje.md",
@@ -143,6 +173,9 @@
   },
   {
     "title": "rumen twingo",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 10,
       "fileName": "2018-07-25-rumen-twingo.md",
@@ -158,6 +191,9 @@
   {
     "title": "dok se ne udam za mene muškarci ne postoje",
     "abstract": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525038595&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "tags": [
+      "rakija + vino"
+    ],
     "meta": {
       "index": 11,
       "fileName": "2018-07-18-dok-se-ne-udam-za-mene-muskarci-ne-postoje.md",
@@ -172,6 +208,9 @@
   },
   {
     "title": "odprtomiselen",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 12,
       "fileName": "2018-06-22-odprtomiselen.md",
