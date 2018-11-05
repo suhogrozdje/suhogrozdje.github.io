@@ -1,50 +1,232 @@
 [
   {
-    "title": "What's this blog about?",
-    "abstract": "A short explanation of what it is I deem to be purposeful about this blog and a tryout of tools for writing math.",
+    "title": "dekonstrukcija",
     "meta": {
       "index": 0,
-      "fileName": "2017-09-15-whats-this-about.md",
-      "section": "/mathematics",
-      "dirName": "/articles",
-      "filePath": "/home/graddd/Workspace/suhogrozdje.github.io/content/articles/mathematics/2017-09-15-whats-this-about.md"
+      "fileName": "2018-11-05-dekonstrukcija.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
     },
-    "date": "2017-09-15",
-    "path": "/mathematics/whats-this-about",
-    "permalink": "/mathematics/whats-this-about",
+    "date": "2018-11-05",
+    "path": "/raztemnenja/dekonstrukcija",
+    "permalink": "/raztemnenja/dekonstrukcija",
     "anchors": [],
-    "body": "<p>Firstly, it’s worth mentioning that I am a physics graduate who is currently on his way of getting a master’s in mathematics. So this blog will hopefully be heavily permeated with topics from geometry and topology, algebra and analysis.</p>\n<p>This category will include short scribblings about my involvement in mathematics. What this mostly means is that I will be discussing mathematical concepts and their connection to physics, the synthesis of the two being called <em>mathematical physics</em>. I will sometimes get involved and talk about specific definitions, lemmas, theorems, proofs; at other times, I will be a physicist and only use mathematics to describe a phenomenon. Forgive me if I start talking about philosophy of mathematics at times though – I will strive to perform better than an average person at your local bar.</p>\n<p>Here’s a short test to see whether MathJax works correctly. An inline bra-ket: $p_e = \\Abs{\\braket{e|\\psi(t)}}^2 = \\sin^2\\Omega t$, a Dirac particle creation operator:\n\\begin{equation}\n\\bar\\psi(x) = \\int \\frac{\\mathrm{d}^3\\vec p}{(2\\pi)^3}\\frac{1}{\\sqrt{2E_{\\vec p}}}\\sum_s\\big(b_{\\vec p}^s\\ \\bar v^s(\\vec p)\\,\\eul^{-ipx} + {a_{\\vec p}^s}^\\dagger\\ u^s (\\vec p)\\,\\eul^{-ipx}\\big),\n\\end{equation}</p>\n<p>and Pauli matrices:\n\\begin{equation}\n\\begin{split}\n\\sigma_x&amp;=\\begin{pmatrix}\n0 &amp; 1 \\\\\n1 &amp; 0\n\\end{pmatrix}\\\\\n\\sigma_y&amp;=\\begin{pmatrix}\n0 &amp; -i \\\\\ni &amp; 0\n\\end{pmatrix}\\\\\n\\sigma_z&amp;=\\begin{pmatrix}\n1 &amp; 0 \\\\\n0 &amp; -1\n\\end{pmatrix}.\n\\end{split}\n\\label{pauli}\n\\end{equation}</p>\n<p>Trying out definitions, lemmas, theorems, proofs:</p>\n<div class=\"definition\" data-title=\"Convexity\">\n  A set $C$ is <i>convex</i> if for all $x,y \\in C$ and for all $\\alpha \\in [0,1]$ the point $\\alpha x + (1-\\alpha) y \\in C$.\n</div>\n<p>Note that markdown <em>doesn’t</em> work in html tags. Watch out for gt/lt signs in theorems. Also, I’m using a reference to \\ref{pauli}</p>\n<p>Now that we’ve defined convexity, let’s move to <strong>arihtmetics</strong> (markdown works here again). Let’s add a named theorem.</p>\n<div class=\"theorem\" data-title=\"Fermat's last theorem\">\n  There are no three natural numbers $x, y, z \\in \\mathbb{N}$ such that $x^n + y^n = z^n$, where $n &gt; 2$.\n</div>\n<div class=\"proof\">\n  Yeah right. Still, I make a q.e.d. sign, to see if it works.\n</div>\n<p>If I now insert a second definition, it should follow in numerical order.</p>\n<div class=\"definition\">\n  A triangle is called <i>equilateral</i> if its sides are equal.\n</div>\n"
+    "body": "<p>božanstvo najine verbalne izmenjave<br>\nruvanje, potiskanje<br>\ntvoje zapeljevanje<br>\nmoje manipulacije<br>\nne povej kar misliš<br>\nne elaboriraj<br>\nne predrobi<br>\nhudournik se sprehodi<br>\nčez najino vas<br>\npoplavi tvojo klet<br>\nuniči mojo fasado<br>\na ne evaluirava škode<br>\nprižgeva si čik<br>\nin opazujeva lepoto sedanjosti<br>\nlepoto njene dekonstrukcije</p>\n"
   },
   {
-    "title": "Transparence",
-    "abstract": "Vultures reading this are expecting me to write funky again, this category being salty bae's sprinked salt to my unsalted equations.",
-    "meta": {
-      "index": 0,
-      "fileName": "2017-09-20-transparence.md",
-      "section": "/dread",
-      "dirName": "/articles",
-      "filePath": "/home/graddd/Workspace/suhogrozdje.github.io/content/articles/dread/2017-09-20-transparence.md"
-    },
-    "date": "2017-09-20",
-    "path": "/dread/transparence",
-    "permalink": "/dread/transparence",
-    "anchors": [],
-    "body": "<p>I am readily see-through with my dread-glamourizing and self-exaltation. My established defense lest a reader would not be able to spew criticism, is of course, an act of self-preservation. Instant cynism, a form of offense in midst of defensive sorrow. I wish I was special. So fucking special. But I misuse words and my commas often aren’t placed correctly.</p>\n<p>Language is a fluid thing; that’s how I apologise my inarticulateness. No strict word rules, whatever goes. If you’re still here, you probably want it raw, want me to tell you a way to do this, to slide through it and tap it like a pro. You want it raw? Become a vegan and cry your vegetables into germination; them vegans certainly feel satisfied with themselves. But that’s not really what you want, is it – you don’t really crave to be persuaded into wellbeing, otherwise you’d be reading some spirit science cult facebook page and feeding on their motivational quotes that aggravate your condition, not my tractats. You want it real but you don’t feel genuine – well, I am not either. I’ve got numerous identities to choose from and pretend to be. I often go with the insecure one because I mistake it for the humble one.</p>\n<p>I don’t deem lightly of this issue, obviously. I don’t proclaim to have it down and yes I do exalt myself for not thinking that I do, as a lot of others do. If you’ve come this far, you’re most likely looking for general nonexisting purpose and I’m not here to tell you there isn’t one. If you wish to think santa exists, that’s fine with me. Also, if you wish to think there isn’t a horse to tackle, I’m fine with you staying ignorant.</p>\n<p>Let’s turn this pity party into a short lesson again, shall we? Sandman puts down people – again, yes I’m that much better than them for knowin this – to being attached to their mental conceivements, then it’s difficult to let go of them. Reasonable, as we all have the need to feel good about ourselves. Let me elaborate; because it’s <strong>our</strong> idea and <strong>we</strong> came up with it, we need to persuade ourselves and others that we are right about whatever it is we’re talking about. We even involve the Truth (yes I believe in that sort of santa, more about that some other time) into our stinking mess of self-security, which gives off the level of our insecurity. In human interactions, we are always craving to be in the right, to hit the nail on its head with our idea, or at least to think that we did and to make others think we did.</p>\n<p>When a certain amount of doubt in oneself is present, there is a lesser chance that we do this – cautious men seldom err. This doubt should in practice appear as internal dialogue that one has inside their head, and I mean that quite literally – back and forth, asking questions and trying your best to answer. And if it doesn’t feel like a struggle with really rare and occasional moments of ease, you’re most likely leaning onto your satisfaction with yourself too much. There is no having-it-down most of the time, no immediate satisfaction with yourself with this method, that’s probably why rarely anyone is eager to incorporate it into their ideal system consciously.</p>\n<p>Well, since you’re probably not incorporating it either and I am not that much into convincing you anymore that I <em>hit the nail on its head</em> – good night, off you go to your slumber.</p>\n"
-  },
-  {
-    "title": "Some jolly-n-sweet opening words",
-    "abstract": "I've finally decided that imma be writing a blog-like thing and I regret this decision instantly. What is bound to be happening on this dull page but an exaggerated portrayal of myself being projected onto the screen, fancy words thrown around?",
+    "title": "udar vještice",
     "meta": {
       "index": 1,
-      "fileName": "2017-09-15-why-do-i-even-bother.md",
-      "section": "/dread",
-      "dirName": "/articles",
-      "filePath": "/home/graddd/Workspace/suhogrozdje.github.io/content/articles/dread/2017-09-15-why-do-i-even-bother.md"
+      "fileName": "2018-11-02-udar-vjestice.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
     },
-    "date": "2017-09-15",
-    "path": "/dread/why-do-i-even-bother",
-    "permalink": "/dread/why-do-i-even-bother",
+    "date": "2018-11-02",
+    "path": "/raztemnenja/udar-vjestice",
+    "permalink": "/raztemnenja/udar-vjestice",
     "anchors": [],
-    "body": "<p>I don’t like the idea of self-promotion through writing and I don’t like people who do it, myself not being excluded from them. One of the things that can prevent you from miserably biting into the pity of conforming to the established standard of what should be projected as an <em>idea of you</em> is closing yourself off – e.g. <strong>not</strong> writing an opinionated blog, deleting your social network accounts and living your life without the burden of day-to-day garbage scrolling. It’s not a novel thing to say that what we are doing is unhealthy, mostly because we get rewarded with dopamine kicks for doing absolutely nothing but swiping your two fingers against a touchpad or the middle one against the wheel, and dopamine kicks for the successfully portrayed illusion of who you are that comes in form of a <em>like</em>.</p>\n<p>What is mostly expected from the writer (in this case, me) is to serve precisely the idea of themselves that they have been marinating in, patting their backs with offering only the misguiding image <em>under which they feel good about themselves</em>, appealing to the reader that they should think good of the writer as well. I’d say that such doing must be categorized as one of the least sincere forms of monologues, rewards being devaluated in the frenzy of awarding them constantly to yourself. So let me be insincere and take this step.</p>\n<p>I could get even more pictorial; you can compare such an act of sycophancy to a dopamine kick that is present when you eat a sugar cube, the latter – having for the consequence a risk you get diabetes when overdoing it – making you rot quite literally. It is self-evident that I draw hereby a conclusion (god that sounds pretentious) that the former means rotting in a figurative sense, placing the two on kinda the same footing.</p>\n<p>Before I get dull and bore myself with my own chanting, I will mention that I have by now successfully made a hopeless post of some length, which seemingly testifies about my competence to stay fluid in thought, which I bet in turn has made you think relatively good of me, and that is the point I’ve tried to elucidate in paragraphs above; I am prone to making you think so. For those of you who know me, I rest assured it is not so, acknowledging you know of my mistakes. These mistakes obviously never take place in a portrayal such as this one; let’s say I’ve made a large misdeed some time ago – I will be prepared to talk about it semi-openly when I will feel that enough time has passed since the wrongdoing that I can <em>claim</em> that it is not a part of me anymore, that I’ve <em>outgrown</em> my bad trait. More importantly, not only would I have a problem with talking about my mistakes, but I’d feel tiny whenever I’d get caught in the gutter of remembering <em>who I really am</em> and that a part of me stinks immensely of “non-<a href=\"http://plato.stanford.edu/entries/integrity/\">integrity</a>”, which brings up an intense feeling of shame. It’s my opinion that the endeavour of us concealing such memories from others and ourselves is an inherent part of human behaviour, keeping us satisfied with ourselves.</p>\n<p>I imagine what you’re thinking – isn’t life simpler than what this guy is preaching about? Yeah, keep chewing on that utopia, see where it gets you. Back that comfortable conceptual horse and lean onto your satisfaction with yourself and you’re ready for slaughter.</p>\n<p>Let me conclude; obviously, the point of this rambling is that most of the time, we’re self-deceptive diligent liars, gripping on our next moment to ejaculate. And for me to have a blog-like thing to do so is just ironic. My last frisky spit for the way is <strong>conform hard or go home</strong>.\n<br><br><br><br><br><br><br><br><br><br><br><br><br>\nin case you were wondering, this page is a halfheartedly honest satire, that’s probably why it will soon die</p>\n"
+    "body": "<p>spet si v zelje hodim<br>\nšepa mi kontra<br>\nha, poševna percepcija<br>\npremikam se po simetrali<br>\nne razlikujem med levo in desno<br>\nmed naravnost in vzvratno<br>\nkao udar vještice<br>\nne mogu okrenuti svoj pogled<br>\nnajbolj se počutim živ<br>\nkadar sem čist hin<br>\npust me, me boš ja ubil<br>\ngenijalna ironija<br>\nkako me pustim umirat<br>\nkako nikoli ne izplačam<br>\nkako vedno mislim, da vem kaj je zame prav<br>\nkako nimam besede<br>\nko na prehodu pogledam<br>\nlevo, desno in še enkrat levo<br>\nvsi želimo zavetje<br>\nampak bog sovraži strahopetce<br>\npomahaj cerkvam<br>\nturni ne zvonijo tebi<br>\npomahaj sebi<br>\ntik tak kdo si zdaj<br>\nnaj se spridi ali ne<br>\nvse je še bilo preseženo</p>\n"
+  },
+  {
+    "title": "emulzija",
+    "meta": {
+      "index": 2,
+      "fileName": "2018-10-29-emulzija.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-10-29",
+    "path": "/raztemnenja/emulzija",
+    "permalink": "/raztemnenja/emulzija",
+    "anchors": [],
+    "body": "<p>žulj ob žulju<br>\nenega po enega<br>\nnapravim v odprto rano<br>\nkolikor je njih<br>\ntoliko mene je<br>\nali kdaj preneham<br>\npodoživljat svoje kikse<br>\nkako naj se okličem za norega<br>\ndokler se lahko za neumnega<br>\na kdaj preneham<br>\npočet stvari brez razloga<br>\nadrenalin je stanje telesa<br>\nkadar ne ve kam naj gre<br>\na bolj kot kam gre<br>\nje pomembno kje je<br>\nnikogar emulirat<br>\nnikogar za vzor imet<br>\nodpis fiksacij<br>\nekonomija volje</p>\n"
+  },
+  {
+    "title": "tinnitus",
+    "meta": {
+      "index": 3,
+      "fileName": "2018-10-27-tinnitus.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-10-27",
+    "path": "/raztemnenja/tinnitus",
+    "permalink": "/raztemnenja/tinnitus",
+    "anchors": [],
+    "body": "<p>youve been trying to find<br>\na silent place to rewind<br>\nend to end, from the beginning<br>\nit dont even exist<br>\nthe baseline of your hearing, jinxed<br>\nthe constant chirm of tinnitus<br>\nwell do you still<br>\nstop and think<br>\nif youve ever had the grip on the bull<br>\nthat births are to be violent<br>\nand whether theres cracks in your concrete<br>\na nasty itch<br>\nno dirt behind the nails<br>\nno progress or process<br>\nwhere do you go my lovely<br>\ni wanna know<br>\nnothing and all in your command</p>\n"
+  },
+  {
+    "title": "cerkev svete pizde",
+    "meta": {
+      "index": 4,
+      "fileName": "2018-10-19-cerkev-svete-pizde.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-10-19",
+    "path": "/raztemnenja/cerkev-svete-pizde",
+    "permalink": "/raztemnenja/cerkev-svete-pizde",
+    "anchors": [],
+    "body": "<p>tilt, labilno stanje zadovoljstva<br>\nin izmuzljivost razpoloženj<br>\nkje so vajeti pizda<br>\nkje neusmisljenost<br>\niskanje pomanjkljivosti<br>\nmoj izraz ljubezni do sebe<br>\ntilt, rojevam protislovja<br>\nne vem kolk identitet mam<br>\ngrem po abecedi<br>\neno za drugo<br>\npod giljotino<br>\nsamo jedan mi problem ostaje<br>\nne ostaje mi rakija<br>\ni čik pavze su mi prekratke<br>\ntilt, tvoja neprištevnost<br>\nčemu si pobrala prstan iz smeti<br>\nše vedno se previdno dotikam<br>\nopeklin ki so nastale<br>\nob rupturi križnih vezi<br>\nkdo zmore bit heretik<br>\nv cerkvi svete pizde<br>\nkdo si bolj dovoli<br>\nnaredit prepih?<br>\nko je vse tekmovanje<br>\nin ne preneseš poraza<br>\nne ostaje ti rakija<br>\ni prekratak ti je svaki čik</p>\n"
+  },
+  {
+    "title": "tebi može malo, meni može malo više",
+    "abstract": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525038631&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "meta": {
+      "index": 5,
+      "fileName": "2018-10-02-tebi-moze-malo-meni-moze-malo-vise.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-10-02",
+    "path": "/raztemnenja/tebi-moze-malo-meni-moze-malo-vise",
+    "permalink": "/raztemnenja/tebi-moze-malo-meni-moze-malo-vise",
+    "anchors": [],
+    "body": "<p>oćeš?<br>\nmože malo<br>\ntebi može malo, meni može malo više<br>\nnema više<br>\n<br>\nLIMONE</p>\n"
+  },
+  {
+    "title": "nenasitljiva žeja",
+    "meta": {
+      "index": 6,
+      "fileName": "2018-09-28-nenasitljiva-zeja.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-09-28",
+    "path": "/raztemnenja/nenasitljiva-zeja",
+    "permalink": "/raztemnenja/nenasitljiva-zeja",
+    "anchors": [],
+    "body": "<p>kdo da bolj mislit<br>\nseb najbolj kar jz sam<br>\nizvir v samoti<br>\nponor, ko sem s tabo<br>\nsporočilnost tvojih besed<br>\nrazpihne mojo meglo<br>\ntišje od mraka<br>\nhitrejše od smrti<br>\nda ne bo potrebno obžalovat<br>\nrečem ne<br>\nv sahari rabiš sam vodo<br>\nvendar si lažem</p>\n"
+  },
+  {
+    "title": "red japanese maple",
+    "meta": {
+      "index": 7,
+      "fileName": "2018-09-25-red-japanese-maple.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-09-25",
+    "path": "/raztemnenja/red-japanese-maple",
+    "permalink": "/raztemnenja/red-japanese-maple",
+    "anchors": [],
+    "body": "<p>red japanese maple <br>\nin its short lived autumn scarlet foliage<br>\ni was sure it had been used out<br>\nthat it had begun <br>\nto lose its mass <br>\nto lose its pull<br>\n<br>\npreparing itself for the winter<br>\ntrying to find its way through<br>\nalive, alive<br>\n<br>\nthe inconspicuous stipules of the petioles<br>\ni now recognize as such<br>\nwhen your subtle rays<br>\nare laid on the eyes<br>\nand the burning cold<br>\nlifts off my spine<br>\n<br>\nits off, dear oh yours<br>\nthat wrong step is around again<br>\nall’s been seen in autumn<br>\nwinter come as you please<br>\n<br>\nconclusions hypothesized<br>\nromanticised, idealized<br>\nkeep them under an open eye<br>\nthey’ll pound at your stump mercilessly</p>\n"
+  },
+  {
+    "title": "the cheap cane blues",
+    "abstract": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525039489&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "meta": {
+      "index": 8,
+      "fileName": "2018-09-11-the-cheap-cane-blues.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-09-11",
+    "path": "/raztemnenja/the-cheap-cane-blues",
+    "permalink": "/raztemnenja/the-cheap-cane-blues",
+    "anchors": [],
+    "body": "<p>so long my woman<br>\nso long dear friend<br>\nill confess to a stranger<br>\nim a mere shell of a man<br>\nn that i feel as if id been strangled<br>\nleft alone to rot<br>\n<br>\nto be worthy <br>\nof my wine<br>\naint no high bar <br>\nto reach<br>\n(you dont no more)<br>\n<br>\nand i drilled through your temple tonight<br>\nyou gave in like dough<br>\ndont know who it hurt more<br>\n<br>\nthe game of who’s more real is done with<br>\nyour shame i never wanted to win<br>\nthis time youre the mortar, im the pestle<br>\noh baby should i crush my nuts on you<br>\n<br>\nmy nuts on you<br>\ndiamonds reflect in blue<br>\nthe dollar’s on me<br>\noh darlin, i cum on your ghee</p>\n"
+  },
+  {
+    "title": "kontriranje",
+    "meta": {
+      "index": 9,
+      "fileName": "2018-08-29-kontriranje.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-08-29",
+    "path": "/raztemnenja/kontriranje",
+    "permalink": "/raztemnenja/kontriranje",
+    "anchors": [],
+    "body": "<p>kontra, lih kontra <br>\nkot kar misliš, to nared<br>\npresenet se<br>\nda ne pogreješ spet skisane župe<br>\n<br>\nkontra, lih kontra<br>\nkontriraš kontriranju<br>\nmirkaš svoje krhke dragulje<br>\npreveč si švicu zanje<br>\n<br>\nkontra kontre <br>\nker nimaš jajc za druge manevre<br>\nza piruete in pikiranje<br>\nposloviva se v stilu</p>\n"
+  },
+  {
+    "title": "rumen twingo",
+    "meta": {
+      "index": 10,
+      "fileName": "2018-07-25-rumen-twingo.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-07-25",
+    "path": "/raztemnenja/rumen-twingo",
+    "permalink": "/raztemnenja/rumen-twingo",
+    "anchors": [],
+    "body": "<p>rumen twingo<br>\nbrez tablic<br>\nnove felge<br>\nkrom paket<br>\n<br>\nhappily never after<br>\n49 mojih<br>\n51 tvojih<br>\nčakam s šampanjcem<br>\nrazbijam čase</p>\n"
+  },
+  {
+    "title": "dok se ne udam za mene muškarci ne postoje",
+    "abstract": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525038595&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "meta": {
+      "index": 11,
+      "fileName": "2018-07-18-dok-se-ne-udam-za-mene-muskarci-ne-postoje.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-07-18",
+    "path": "/raztemnenja/dok-se-ne-udam-za-mene-muskarci-ne-postoje",
+    "permalink": "/raztemnenja/dok-se-ne-udam-za-mene-muskarci-ne-postoje",
+    "anchors": [],
+    "body": "<p>ti meni nikad ništa neveruješ<br>\nneveruješ<br>\ndok se ne udam za mene muškarci nepostoje<br>\nnepostoje<br>\n<br>\nne može to tako<br>\nja hoću da znam šta meni pripada<br>\njesi ti normalan?<br>\nnepostoje</p>\n"
+  },
+  {
+    "title": "odprtomiselen",
+    "meta": {
+      "index": 12,
+      "fileName": "2018-06-22-odprtomiselen.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-06-22",
+    "path": "/raztemnenja/odprtomiselen",
+    "permalink": "/raztemnenja/odprtomiselen",
+    "anchors": [],
+    "body": "<p>s prstom si kažem lastno protislovnost<br>\nizrečem jo in je ne slišim<br>\npodoživim trenutek svoje ignorance<br>\nzatrem ga in hitro pozabim<br>\nin še si drznem namigovati na lastno stabilnost<br>\nsvojo krepko premišljenost, katero narišem sogovorcu<br>\ngovorim o vrednotah, baje da jih mam<br>\nvprašaj me, tam sem<br>\nna odprtem, odprtomiselen</p>\n"
+  },
+  {
+    "title": "zamilskina zakladnica industrialnega techna",
+    "abstract": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2735390019/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"http://zamilskaofficial.bandcamp.com/album/untune-remastered\">UNTUNE (Remastered) by Zamilska</a></iframe>",
+    "meta": {
+      "index": 0,
+      "fileName": "2018-11-05-zamilska-hoce-blizje.md",
+      "section": "/glasovi",
+      "dirName": "/articles"
+    },
+    "date": "2018-11-05",
+    "path": "/glasovi/zamilska-hoce-blizje",
+    "permalink": "/glasovi/zamilska-hoce-blizje",
+    "anchors": [],
+    "body": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/n7qPrclkWbE\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/cKqV9Oe2Bsg\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/2TvFtRWnskY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/sySg7KU7NGw\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n"
+  },
+  {
+    "title": "the i.l.y's - doing things that artists do",
+    "abstract": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/bJZXyI5uHZs\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>flatlander and hill, take it away",
+    "meta": {
+      "index": 1,
+      "fileName": "2017-11-18-the-i.l.ys-doing-things-that-artists-do.md",
+      "section": "/glasovi",
+      "dirName": "/articles"
+    },
+    "date": "2017-11-18",
+    "path": "/glasovi/the-i-l-ys-doing-things-that-artists-do",
+    "permalink": "/glasovi/the-i-l-ys-doing-things-that-artists-do",
+    "anchors": [],
+    "body": ""
+  },
+  {
+    "title": "hustle bones coming out my mouth",
+    "abstract": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/dCgxi-h1PoI\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+    "meta": {
+      "index": 2,
+      "fileName": "2017-10-01-hustle-bones-coming-out-my-math.md",
+      "section": "/glasovi",
+      "dirName": "/articles"
+    },
+    "date": "2017-10-01",
+    "path": "/glasovi/hustle-bones-coming-out-my-math",
+    "permalink": "/glasovi/hustle-bones-coming-out-my-math",
+    "anchors": [],
+    "body": ""
   }
 ]
