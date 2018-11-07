@@ -1,11 +1,28 @@
 [
   {
-    "title": "dekonstrukcija",
+    "title": "eksfoliacija",
     "tags": [
       "rakija"
     ],
     "meta": {
       "index": 0,
+      "fileName": "2018-11-07-eksfoliacija.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-11-07",
+    "path": "/raztemnenja/eksfoliacija",
+    "permalink": "/raztemnenja/eksfoliacija",
+    "anchors": [],
+    "body": "<p>pod hladen tuš<br>\nz univerzalnim čistilom<br>\nda se fajn spenim<br>\npreden pljunem ven svoj ennui<br>\nglavo obrišem <br>\nv zaprašen tepih s podstrešja<br>\neksfoliacija odmrle kože<br>\nobrijem se z žlico<br>\nspreman za napolje<br>\nza pikre lajne z glave<br>\ns katerimi grem nikamor<br>\nlimone ne odjebejo<br>\nčeprav so me naveličane<br>\ndvignem jim eno obrv, serviram sanpaku<br>\nin polovici šarenic skozi priprti veki<br>\nkdo vas bo gledu<br>\nda moram sebe je dovolj<br>\nampak sebe morem</p>\n"
+  },
+  {
+    "title": "dekonstrukcija",
+    "tags": [
+      "rakija"
+    ],
+    "meta": {
+      "index": 1,
       "fileName": "2018-11-05-dekonstrukcija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -14,7 +31,7 @@
     "path": "/raztemnenja/dekonstrukcija",
     "permalink": "/raztemnenja/dekonstrukcija",
     "anchors": [],
-    "body": "<p>božanstvo najine verbalne izmenjave<br>\nruvanje, potiskanje<br>\ntvoje zapeljevanje<br>\nmoje manipulacije<br>\nne povej kar misliš<br>\nne elaboriraj<br>\nne predrobi<br>\nhudournik se sprehodi<br>\nčez najino vas<br>\npoplavi tvojo klet<br>\nuniči mojo fasado<br>\na ne evaluirava škode<br>\nprižgeva si čik<br>\nin opazujeva lepoto sedanjosti<br>\nlepoto njene dekonstrukcije</p>\n"
+    "body": "<p>božanstvo verbalne izmenjave<br>\nruvanje, potiskanje<br>\ntvoje zapeljevanje<br>\nmoje manipulacije<br>\nne povej kar misliš<br>\nne elaboriraj<br>\nne predrobi<br>\nhudournik se sprehodi<br>\nčez najino vas<br>\npoplavi tvojo klet<br>\nnavlaži nje stene<br>\nuniči mojo fasado<br>\na ne evaluirava škode<br>\nprižgeva si čik<br>\nin opazujeva lepoto sedanjosti<br>\nlepoto njene dekonstrukcije</p>\n"
   },
   {
     "title": "udar vještice",
@@ -22,7 +39,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 1,
+      "index": 2,
       "fileName": "2018-11-02-udar-vjestice.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -39,7 +56,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 2,
+      "index": 3,
       "fileName": "2018-10-29-emulzija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -56,7 +73,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 3,
+      "index": 4,
       "fileName": "2018-10-27-tinnitus.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -73,7 +90,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 4,
+      "index": 5,
       "fileName": "2018-10-19-cerkev-svete-pizde.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -91,7 +108,7 @@
       "rakija + vino"
     ],
     "meta": {
-      "index": 5,
+      "index": 6,
       "fileName": "2018-10-02-tebi-moze-malo-meni-moze-malo-vise.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -108,7 +125,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 6,
+      "index": 7,
       "fileName": "2018-09-28-nenasitljiva-zeja.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -125,7 +142,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 7,
+      "index": 8,
       "fileName": "2018-09-25-red-japanese-maple.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -143,7 +160,7 @@
       "rakija + vino"
     ],
     "meta": {
-      "index": 8,
+      "index": 9,
       "fileName": "2018-09-11-the-cheap-cane-blues.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -160,7 +177,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 9,
+      "index": 10,
       "fileName": "2018-08-29-kontriranje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -177,7 +194,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 10,
+      "index": 11,
       "fileName": "2018-07-25-rumen-twingo.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -195,7 +212,7 @@
       "rakija + vino"
     ],
     "meta": {
-      "index": 11,
+      "index": 12,
       "fileName": "2018-07-18-dok-se-ne-udam-za-mene-muskarci-ne-postoje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -212,7 +229,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 12,
+      "index": 13,
       "fileName": "2018-06-22-odprtomiselen.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
