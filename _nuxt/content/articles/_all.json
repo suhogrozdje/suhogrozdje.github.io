@@ -1,6 +1,9 @@
 [
   {
     "title": "čik po sladoledu",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 0,
       "fileName": "2018-11-11-cik-po-sladoledu.md",
@@ -15,6 +18,9 @@
   },
   {
     "title": "prečno progaste mišice",
+    "tags": [
+      "rakija"
+    ],
     "image": "/images/interieur-de-la-bouche.jpeg",
     "description": "kaj me prepriča \\\\ da dovolim \\\\ da odrežeš zgornji del moje lobanje",
     "meta": {
@@ -31,6 +37,9 @@
   },
   {
     "title": "wednesday villains",
+    "tags": [
+      "rakija"
+    ],
     "meta": {
       "index": 2,
       "fileName": "2018-11-08-wednesday-villains.md",
