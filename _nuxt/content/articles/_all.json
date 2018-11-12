@@ -1,10 +1,24 @@
 [
   {
+    "title": "čik po sladoledu",
+    "meta": {
+      "index": 0,
+      "fileName": "2018-11-11-cik-po-sladoledu.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-11-11",
+    "path": "/raztemnenja/cik-po-sladoledu",
+    "permalink": "/raztemnenja/cik-po-sladoledu",
+    "anchors": [],
+    "body": "<p>kdo sem jz<br>\nda bi ti pamet meril<br>\nodpiram predale da vidim<br>\nkam spadaš<br>\nvse je del propada<br>\nsladoled v novembru<br>\nda lahko med lizanjem<br>\nmisliš o čiku, ki čaka na fizični meji <br>\nmed saturacijo in spokojnostjo<br>\nmed napačnimi in pravimi odločitvami<br>\nki poplavijo tvoje sito<br>\nmaterija sledi njihovim sledem</p>\n"
+  },
+  {
     "title": "prečno progaste mišice",
     "image": "/images/interieur-de-la-bouche.jpeg",
     "description": "kaj me prepriča \\\\ da dovolim \\\\ da odrežeš zgornji del moje lobanje",
     "meta": {
-      "index": 0,
+      "index": 1,
       "fileName": "2018-11-09-precno-progaste-misice.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -18,7 +32,7 @@
   {
     "title": "wednesday villains",
     "meta": {
-      "index": 1,
+      "index": 2,
       "fileName": "2018-11-08-wednesday-villains.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -35,7 +49,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 2,
+      "index": 3,
       "fileName": "2018-11-07-eksfoliacija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -52,7 +66,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 3,
+      "index": 4,
       "fileName": "2018-11-05-dekonstrukcija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -69,7 +83,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 4,
+      "index": 5,
       "fileName": "2018-11-02-udar-vjestice.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -86,7 +100,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 5,
+      "index": 6,
       "fileName": "2018-10-29-emulzija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -103,7 +117,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 6,
+      "index": 7,
       "fileName": "2018-10-27-tinnitus.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -120,7 +134,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 7,
+      "index": 8,
       "fileName": "2018-10-19-cerkev-svete-pizde.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -138,7 +152,7 @@
       "rakija + vino"
     ],
     "meta": {
-      "index": 8,
+      "index": 9,
       "fileName": "2018-10-02-tebi-moze-malo-meni-moze-malo-vise.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -155,7 +169,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 9,
+      "index": 10,
       "fileName": "2018-09-28-nenasitljiva-zeja.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -172,7 +186,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 10,
+      "index": 11,
       "fileName": "2018-09-25-red-japanese-maple.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -190,7 +204,7 @@
       "rakija + vino"
     ],
     "meta": {
-      "index": 11,
+      "index": 12,
       "fileName": "2018-09-11-the-cheap-cane-blues.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -207,7 +221,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 12,
+      "index": 13,
       "fileName": "2018-08-29-kontriranje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -224,7 +238,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 13,
+      "index": 14,
       "fileName": "2018-07-25-rumen-twingo.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -242,7 +256,7 @@
       "rakija + vino"
     ],
     "meta": {
-      "index": 14,
+      "index": 15,
       "fileName": "2018-07-18-dok-se-ne-udam-za-mene-muskarci-ne-postoje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -259,7 +273,7 @@
       "rakija"
     ],
     "meta": {
-      "index": 15,
+      "index": 16,
       "fileName": "2018-06-22-odprtomiselen.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
