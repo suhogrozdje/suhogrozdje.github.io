@@ -1,11 +1,28 @@
 [
   {
-    "title": "na visokih obratih",
+    "title": "pekel 1",
     "tags": [
       "poezija"
     ],
     "meta": {
       "index": 0,
+      "fileName": "2018-11-17-pekel-1.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-11-17",
+    "path": "/raztemnenja/pekel-1",
+    "permalink": "/raztemnenja/pekel-1",
+    "anchors": [],
+    "body": "<p>mar ne slišiš kako se raztezajo stene<br>\nin ne vonjaš muškatnega vonja praznine<br>\nkako zajoče, ko stopaš nanjo<br>\n<br>\nmar ne slišiš, ko se vidiš v odsevu<br>\nrahlo škilečih kristalnih krogel,<br>\npodstat brenčati prijetno bodeče<br>\n<br>\nnihče ne drvi<br>\nnihče ne ustavlja<br>\nin meni nič kakor molk ne odzvanja</p>\n"
+  },
+  {
+    "title": "na visokih obratih",
+    "tags": [
+      "poezija"
+    ],
+    "meta": {
+      "index": 1,
       "fileName": "2018-11-14-na-visokih-obratih.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -14,7 +31,7 @@
     "path": "/raztemnenja/na-visokih-obratih",
     "permalink": "/raztemnenja/na-visokih-obratih",
     "anchors": [],
-    "body": "<p>gimnastika z mislimi<br>\nližem komolec<br>\nnogi imam za glavo<br>\nnasedem ničemur<br>\n<br>\nredundanten sem<br>\nzjeban, a neutruden<br>\nčmrlj, ki oprašuje paradižnik<br>\n<br>\nrazočaraj me<br>\nda izgubim zaupanje v tvojo presojo<br>\npodhladitev me spravi na visoke obrate<br>\nnezadostnost, moj nitroglicerin<br>\nz njo ne ostanem v leru<br>\nz njo si utiram pot do nedotakljivosti<br>\n<br>\nv tesnobi in neravnovesju<br>\nroka ostaja mirna<br>\nkontrira bolečini v rami<br>\npretvarja se, da ne obstaja<br>\nče zadosti verjame<br>\nje ni tam</p>\n"
+    "body": "<p>gimnastika z mislimi<br>\nližem komolec<br>\nnogi imam za glavo<br>\nnasedem ničemur<br>\nredundanten sem<br>\nzjeban, a neutruden<br>\nčmrlj, ki oprašuje paradižnik<br>\n<br>\nrazočaraj me<br>\nda izgubim zaupanje v tvojo presojo<br>\npodhladitev me spravi na visoke obrate<br>\nnezadostnost, moj nitroglicerin<br>\nz njo ne ostanem v leru<br>\nz njo si utiram pot do nedotakljivosti<br>\n<br>\nv tesnobi in neravnovesju<br>\nroka ostaja mirna<br>\nkontrira bolečini v rami<br>\npretvarja se, da ne obstaja<br>\nče zadosti verjame<br>\nje ni tam</p>\n"
   },
   {
     "title": "čik po sladoledu",
@@ -22,7 +39,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 1,
+      "index": 2,
       "fileName": "2018-11-11-cik-po-sladoledu.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -41,7 +58,7 @@
     "image": "/images/interieur-de-la-bouche.jpeg",
     "description": "kaj me prepriča \\\\ da dovolim \\\\ da odrežeš zgornji del moje lobanje",
     "meta": {
-      "index": 2,
+      "index": 3,
       "fileName": "2018-11-09-precno-progaste-misice.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -58,7 +75,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 3,
+      "index": 4,
       "fileName": "2018-11-08-wednesday-villains.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -75,7 +92,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 4,
+      "index": 5,
       "fileName": "2018-11-07-eksfoliacija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -92,7 +109,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 5,
+      "index": 6,
       "fileName": "2018-11-05-dekonstrukcija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -109,7 +126,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 6,
+      "index": 7,
       "fileName": "2018-11-02-udar-vjestice.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -126,7 +143,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 7,
+      "index": 8,
       "fileName": "2018-10-29-emulzija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -143,7 +160,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 8,
+      "index": 9,
       "fileName": "2018-10-27-tinnitus.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -160,7 +177,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 9,
+      "index": 10,
       "fileName": "2018-10-19-cerkev-svete-pizde.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -178,7 +195,7 @@
       "upesnitve"
     ],
     "meta": {
-      "index": 10,
+      "index": 11,
       "fileName": "2018-10-02-tebi-moze-malo-meni-moze-malo-vise.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -195,7 +212,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 11,
+      "index": 12,
       "fileName": "2018-09-28-nenasitljiva-zeja.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -212,7 +229,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 12,
+      "index": 13,
       "fileName": "2018-09-25-red-japanese-maple.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -230,7 +247,7 @@
       "upesnitve"
     ],
     "meta": {
-      "index": 13,
+      "index": 14,
       "fileName": "2018-09-11-the-cheap-cane-blues.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -247,7 +264,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 14,
+      "index": 15,
       "fileName": "2018-08-29-kontriranje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -264,7 +281,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 15,
+      "index": 16,
       "fileName": "2018-07-25-rumen-twingo.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -282,7 +299,7 @@
       "upesnitve"
     ],
     "meta": {
-      "index": 16,
+      "index": 17,
       "fileName": "2018-07-18-dok-se-ne-udam-za-mene-muskarci-ne-postoje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -299,7 +316,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 17,
+      "index": 18,
       "fileName": "2018-06-22-odprtomiselen.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
