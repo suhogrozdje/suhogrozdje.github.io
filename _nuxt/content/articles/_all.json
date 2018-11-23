@@ -1,11 +1,28 @@
 [
   {
-    "title": "pekel 2",
+    "title": "piñata in konfeti",
     "tags": [
       "poezija"
     ],
     "meta": {
       "index": 0,
+      "fileName": "2018-11-22-pinata-in-konfeti.md",
+      "section": "/raztemnenja",
+      "dirName": "/articles"
+    },
+    "date": "2018-11-22",
+    "path": "/raztemnenja/pinata-in-konfeti",
+    "permalink": "/raztemnenja/pinata-in-konfeti",
+    "anchors": [],
+    "body": "<p>nesmiselnost mojega obstoja<br>\nv usta si stlačim vato<br>\nsto procentni bombaž 20 kom.<br>\nna njej ostane<br>\nviskozni residuum katrana<br>\nkošček pljuč<br>\nmukus in tvoje sporočilo<br>\no tem kakšna sva postala<br>\ntežko se zgodi<br>\nda ni mi mar za preteklost<br>\nrazbil sem ogledalo<br>\nne vidim več nazaj<br>\nz razlogom me vsak dan vprašajo<br>\n“a si ti ok”<br>\nzmanjkal mi je vitaminov<br>\nmoj tetris je za v vojnik<br>\nali kjerkoli je že tvoja preferenčna<br>\npočitniška hiša<br>\nkjer roke rijejo skozi rešeto<br>\nse obesijo za vrat in ne spustijo<br>\nče se mi uspe prilagodit<br>\npiñata in konfeti<br>\nče se pustim odprtih ust, brez besed<br>\nče širim luknje v svojem platnu<br>\nne bom jih flikal<br>\nnetko mora napraviti budalu od sebe<br>\ntražiti stvar koja je borbe vrijedna<br>\ntreba mi anđele</p>\n"
+  },
+  {
+    "title": "pekel 2",
+    "tags": [
+      "poezija"
+    ],
+    "meta": {
+      "index": 1,
       "fileName": "2018-11-20-pekel-2.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -22,7 +39,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 1,
+      "index": 2,
       "fileName": "2018-11-17-pekel-1.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -39,7 +56,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 2,
+      "index": 3,
       "fileName": "2018-11-14-na-visokih-obratih.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -56,7 +73,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 3,
+      "index": 4,
       "fileName": "2018-11-11-cik-po-sladoledu.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -75,7 +92,7 @@
     "image": "/images/interieur-de-la-bouche.jpeg",
     "description": "kaj me prepriča \\\\ da dovolim \\\\ da odrežeš zgornji del moje lobanje",
     "meta": {
-      "index": 4,
+      "index": 5,
       "fileName": "2018-11-09-precno-progaste-misice.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -92,7 +109,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 5,
+      "index": 6,
       "fileName": "2018-11-07-eksfoliacija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -109,7 +126,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 6,
+      "index": 7,
       "fileName": "2018-11-05-dekonstrukcija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -126,7 +143,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 7,
+      "index": 8,
       "fileName": "2018-11-02-udar-vjestice.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -143,7 +160,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 8,
+      "index": 9,
       "fileName": "2018-10-29-emulzija.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -160,7 +177,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 9,
+      "index": 10,
       "fileName": "2018-10-19-cerkev-svete-pizde.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -178,7 +195,7 @@
       "upesnitve"
     ],
     "meta": {
-      "index": 10,
+      "index": 11,
       "fileName": "2018-10-02-tebi-moze-malo-meni-moze-malo-vise.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -195,7 +212,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 11,
+      "index": 12,
       "fileName": "2018-09-28-nenasitljiva-zeja.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -213,7 +230,7 @@
       "upesnitve"
     ],
     "meta": {
-      "index": 12,
+      "index": 13,
       "fileName": "2018-09-11-the-cheap-cane-blues.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -230,7 +247,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 13,
+      "index": 14,
       "fileName": "2018-08-29-kontriranje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -247,7 +264,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 14,
+      "index": 15,
       "fileName": "2018-07-25-rumen-twingo.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -265,7 +282,7 @@
       "upesnitve"
     ],
     "meta": {
-      "index": 15,
+      "index": 16,
       "fileName": "2018-07-18-dok-se-ne-udam-za-mene-muskarci-ne-postoje.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
@@ -282,7 +299,7 @@
       "poezija"
     ],
     "meta": {
-      "index": 16,
+      "index": 17,
       "fileName": "2018-06-22-odprtomiselen.md",
       "section": "/raztemnenja",
       "dirName": "/articles"
